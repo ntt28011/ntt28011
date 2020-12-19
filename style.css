@@ -26,7 +26,7 @@ b{
 }
 
 body{
-    background: linear-gradient(rgba(0,0,0,0.68),rgba(0,0,0,0.68),rgba(0,0,0,0.68),rgba(0,0,0,0.68)),url(/img.jpg)no-repeat;
+    background: linear-gradient(rgba(0,0,0,0.68),rgba(0,0,0,0.68),rgba(0,0,0,0.68),rgba(0,0,0,0.68)),url(img/img.jpg)no-repeat;
     background-size: cover;
 }
 
